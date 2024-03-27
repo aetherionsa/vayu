@@ -35,12 +35,12 @@ services/: Contains services for fetching location and weather data.
 ui/: User interface components including screens and widgets.
 Installation:
 
-Ensure Flutter SDK is installed on your machine.
-Clone the project repository.
-Run flutter pub get to install dependencies.
-Configure location and weather APIs in the project.
-Run the application using flutter run.
-Usage:
+Ensure Flutter SDK is installed on your machine. /n
+Clone the project repository./n
+Run flutter pub get to install dependencies./n
+Configure location and weather APIs in the project./n
+Run the application using flutter run./n
+## Usage:
 
 Upon launching the application, the user's current location and real-time weather information will be displayed.
 The Lottie animation will depict the current weather condition.
