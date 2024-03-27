@@ -90,12 +90,12 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.example" "\0"
-            VALUE "FileDescription", "minimalweather" "\0"
+            VALUE "FileDescription", "vayu" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "minimalweather" "\0"
+            VALUE "InternalName", "vayu" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2024 com.example. All rights reserved." "\0"
-            VALUE "OriginalFilename", "minimalweather.exe" "\0"
-            VALUE "ProductName", "minimalweather" "\0"
+            VALUE "OriginalFilename", "vayu.exe" "\0"
+            VALUE "ProductName", "vayu" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END

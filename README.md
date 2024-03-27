@@ -1,4 +1,4 @@
-# minimalweather
+# vayu
 
 A new Flutter project.
 
