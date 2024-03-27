@@ -1,5 +1,8 @@
-# vayu
+# VAYU
 VAYU Documentation
+![IMG_20240327_195745](https://github.com/aetherionsa/vayu/assets/156537258/94775bce-6825-46ad-bd89-59231ac4b25a)
+
+
 
 ## Overview:
 This document provides an overview of a minimalist weather application developed using Flutter framework. The app utilizes the BLoC (Business Logic Component) architecture pattern for state management and integrates Lottie animations for enhanced visual experience.
@@ -29,22 +32,35 @@ UI Design: Design a minimalist user interface with a focus on simplicity and ele
 ## Code Structure:
 
 main.dart: Entry point of the application.
+
 bloc/: Contains BLoC classes for managing application state.
+
 models/: Data models for representing location and weather information.
+
 services/: Contains services for fetching location and weather data.
+
 ui/: User interface components including screens and widgets.
-Installation:
+
+## Installation:
 
 Ensure Flutter SDK is installed on your machine. 
+
 Clone the project repository.
+
 Run flutter pub get to install dependencies.
+
 Configure location and weather APIs in the project.
+
 Run the application using flutter run.
+
 ## Usage:
 
 Upon launching the application, the user's current location and real-time weather information will be displayed.
+
 The Lottie animation will depict the current weather condition.
+
 Users can interact with the app to view weather forecasts or access additional features.
+
 Contributors:
 
 [Aetherion]
